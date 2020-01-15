@@ -1,1 +1,1 @@
-# typescript-namespaces-modules
+# Use of TypeScript Namespaces and Modules
